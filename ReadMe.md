@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="html" width="30" height="30">
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="html" width="50" height="50"> -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="html" width="30" height="30">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="html" width="30" height="30">
+<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="html" width="30" height="30"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="html" width="30" height="30" color="white" fill="white">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="html" width="30" height="30" color="white" fill="white">
 </div>
